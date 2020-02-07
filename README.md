@@ -1,6 +1,4 @@
-Date: 29th of March 2019
-Instructor: Eng. Haya Al-Shareef
-Done By: Ruba Bin Jabal, Nada Abughazalah 
+Date: 29th of March 2019, Instructor: Eng. Haya Al-Shareef, Done By: Ruba Bin Jabal, Nada Abughazalah 
 
 
 # Real-Time-Digital-Clock-with-an-Alarm
