@@ -8,4 +8,4 @@ This project is an implementation of a real-time digital clock with an alarm, wh
 The project requirement is designing a digital clock system that allows for time and date updating. In addition, an internal alarm system can be configured to a specific time with choosing alarming LED pattern.
 
 For More Details visit the website:
-
+ https://ruba-ali.wixsite.com/rubabinjabal/single-post/2020/02/07/Real-Time-Digital-Clock-with-an-Alarm---Microcontroller
